@@ -19,3 +19,9 @@ conda activate ./envs
 ## Reference -
 
 * [Conda env commands](https://conda.io
+
+### Before running run cmmnd
+
+```bash
+pip install -e .
+```
